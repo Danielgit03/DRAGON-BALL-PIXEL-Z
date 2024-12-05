@@ -226,7 +226,8 @@ public void actionPerformed(ActionEvent e) {
         );
 
         switch (opcion) {
-            case 0 : reiniciarJuego(); // Jugar de nuevo
+            case 0 : reiniciarJuego();
+                break;// Jugar de nuevo
             case 1 : {
                 reiniciarSelector();
                 reiniciarJuego(); // Cambiar personajes
