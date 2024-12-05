@@ -458,13 +458,13 @@ static class MenuInicial {
         while (!jugadoresSeleccionados) {
             try {
                 Sprite[] opciones = {
-                    new Sprite("Goku", 100, 400, 120, 25, 130, 160, "images/goku.png", "kameha"),
-                    new Sprite("Vegeta", 100, 400, 120, 25, 130, 150, "images/vegeta.png", "rayoos"),
-                    new Sprite("Freezer", 100, 400, 130, 20, 120, 150, "images/freezer.png", "rayoos"),
-                    new Sprite("Broly", 100, 400, 110, 30, 140, 170, "images/Broly.png", "rayoos"),
-                    new Sprite("Gohan", 100, 400, 129, 22, 125, 170, "images/gohan.png", "kameha"),
-                    new Sprite("Gogeta", 100, 400, 160, 27, 120, 170, "images/gogeta.gif", "kameha"),
-                    new Sprite("Jiren", 100, 400, 155, 26, 110, 160, "images/jiren.png", "rayoos"),
+                    new Sprite("Goku", 100, 400, 140, 25, 130, 160, "images/goku.png", "kameha"),
+                    new Sprite("Vegeta", 100, 400, 140, 25, 130, 150, "images/vegeta.png", "rayoos"),
+                    new Sprite("Freezer", 100, 400, 150, 20, 120, 150, "images/freezer.png", "rayoos"),
+                    new Sprite("Broly", 100, 400, 145, 30, 140, 170, "images/Broly.png", "rayoos"),
+                    new Sprite("Gohan", 100, 400, 130, 30, 125, 170, "images/gohan.png", "kameha"),
+                    new Sprite("Gogeta", 100, 400, 160, 35, 120, 170, "images/gogeta.gif", "kameha"),
+                    new Sprite("Jiren", 100, 400, 155, 30, 110, 160, "images/jiren.png", "rayoos"),
                     new Sprite("Majin Buu", 100, 400, 125, 20, 110, 150, "images/majinbuu.png", "rayoos")
                 };
 
