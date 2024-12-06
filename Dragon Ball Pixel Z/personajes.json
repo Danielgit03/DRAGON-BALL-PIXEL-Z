@@ -1,0 +1,90 @@
+[
+    {
+        "nombre": "Goku",
+        "posX": 100,
+        "posY": 400,
+        "vida": 120,
+        "fuerza": 25,
+        "ancho": 110,
+        "alto": 160,
+        "imagen": "images/goku.png",
+        "proyectil": "kameha"
+    },
+    {
+        "nombre": "Vegeta",
+        "posX": 100,
+        "posY": 400,
+        "vida": 120,
+        "fuerza": 25,
+        "ancho": 110,
+        "alto": 150,
+        "imagen": "images/vegeta.png",
+        "proyectil": "rayoos"
+    },
+    {
+        "nombre": "Freezer",
+        "posX": 100,
+        "posY": 400,
+        "vida": 130,
+        "fuerza": 30,
+        "ancho": 110,
+        "alto": 150,
+        "imagen": "images/freezer.png",
+        "proyectil": "rayoos"
+    },
+    {
+        "nombre": "Broly",
+        "posX": 100,
+        "posY": 400,
+        "vida": 150,
+        "fuerza": 30,
+        "ancho": 110,
+        "alto": 170,
+        "imagen": "images/Broly.png",
+        "proyectil": "rayoos"
+    },
+    {
+        "nombre": "Gohan",
+        "posX": 500,
+        "posY": 400,
+        "vida": 145,
+        "fuerza": 30,
+        "ancho": 110,
+        "alto": 160,
+        "imagen": "images/trunks.png",
+        "proyectil": "burning_attack"
+    },
+    {
+        "nombre": "Gogeta",
+        "posX": 100,
+        "posY": 400,
+        "vida": 160,
+        "fuerza": 35,
+        "ancho": 110,
+        "alto": 150,
+        "imagen": "images/gogeta.png",
+        "proyectil": "kameha"
+    },
+    {
+        "nombre": "Jiren",
+        "posX": 100,
+        "posY": 400,
+        "vida": 155,
+        "fuerza": 30,
+        "ancho": 110,
+        "alto": 160,
+        "imagen": "images/jiren.png",
+        "proyectil": "rayoos"
+    },
+    {
+        "nombre" : "Majin Buu",
+        "posX" : 100,
+        "posY" : 400,
+        "vida" : 185,
+        "fuerza" : 25,
+        "ancho" : 110,
+        "alto" : 150,
+        "imagen" : "images/majinbuu.png",
+        "proyectil" : "rayoos"
+    }
+]
